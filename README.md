@@ -1,5 +1,11 @@
 
 <div id="header" align="center">
+  <h1>
+  Hey there, I'm Blazeleo
+
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <br/>
   <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 <div id="badges">
@@ -17,12 +23,7 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=Blazeleo&style=flat-square&color=blue" alt=""/>
 <h1>
-  
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/><br/>
-  Hey there I'm Blazeleo
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br/>
-  
+    
   ---
 
 ### :woman_technologist: About Me :
